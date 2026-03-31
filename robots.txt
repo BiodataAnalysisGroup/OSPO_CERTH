@@ -1,1 +1,1 @@
-Sitemap: https://natanast.github.io/OSPO_CERTH/sitemap.xml
+Sitemap: https://BiodataAnalysisGroup.github.io/OSPO_CERTH/sitemap.xml
